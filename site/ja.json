@@ -310,11 +310,11 @@
                 "set": {
                     "title": "代名詞を設定する",
                     "help": "設定したいプローノンを入力してください。現在のは {subject}/{object}/{possessive}",
-                    "disclaimer": "We only provide a list of set pronouns, to prevent abuse.",
-                    "placeholder": "Enter pronouns",
-                    "button": "Set Pronouns",
-                    "success": "Successfully set pronouns",
-                    "error": "Error setting pronouns"
+                    "disclaimer": "乱用を防ぐために、設定されたプロノンのリストのみを提供します。",
+                    "placeholder": "プロノンを入力",
+                    "button": "プロノンを設定",
+                    "success": "プロノンの設定了解",
+                    "error": "プロノンの設定エラー"
                 },
                 "poweredBy": {
                     "title": "提供",
@@ -345,7 +345,7 @@
                 }
             },
             "viewSuggestiveContent": {
-                "title": "View Suggestive Content",
+                "title": "内容を表示",
                 "help": "This setting allows you to view suggestive/triggering content, this is stored locally on your device.",
                 "button": "Change View Suggestive Content",
                 "success": "Successfully changed view suggestive content",
