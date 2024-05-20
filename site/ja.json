@@ -355,44 +355,44 @@
                 "title": "パスワード",
                 "help": "自分のパスワードはサイト内に認証ために使用されます。",
                 "placeholder": "パスワード入力",
-                "button": "パスワード変わる",
+                "button": "パスワード変更",
                 "success": "パスワード変更に成功しました",
-                "error": "Error changing password"
+                "error": "パスワード変更にエラー"
             },
             "delete": {
-                "title": "Delete Account",
-                "help": "Deleting your account will delete everything, including assets. Your account will be immediately disabled & you will be redirected to the home page. After 14 days, your account will be permanently deleted. Regain access at any time by emailing us at {email}.",
-                "button": "Delete Account",
-                "confirm": "Are you sure you want to delete your account?",
-                "success": "Successfully disabled account, redirecting to home page...",
-                "error": "Error deleting account. Contact us at {email} for help."
+                "title": "アカウントの削除",
+                "help": "アカウント削除により、全部は削除されます。前のアップロードしたアセットも削除されます。アカウントはすぐに無効にされてお客さんがホームページへ動くされます。14日後でアカウントは永久で削除されます。アクセスを取り戻すために、いつでも{email} でメールしてください。",
+                "button": "アカウント削除",
+                "confirm": "本当にアカウントを削除しますはいいですか？",
+                "success": "アカウントを無効にしました、ホームページへ残っています…",
+                "error": "アカウント削除のエラー、{email} で連絡してください。"
             }
         }
     },
     "support": {
         "support": {
-            "support": "Support"
+            "support": "サポート"
         },
         "report": {
             "general": {
-                "title": "Report",
-                "help": "If you find any bugs or issues with the site, please report them here.",
-                "placeholder": "Enter report",
-                "button": "Report",
-                "success": "Successfully reported issue",
-                "error": "Error reporting issue"
+                "title": "リポート",
+                "help": "バグとか誤りを見つければここでリポートしてください。",
+                "placeholder": "リポートを入力",
+                "button": "リポート",
+                "success": "リポートに成功しました",
+                "error": "リポートのエラー"
             },
             "ugc": {
                 "user": {
-                    "title": "Report User",
-                    "help": "If you find any users breaking the rules, please report them here.",
-                    "placeholder": "Enter report",
-                    "button": "Report User",
-                    "success": "Successfully reported user",
-                    "error": "Error reporting user"
+                    "title": "ユーザーをリポートして",
+                    "help": "規則を破るユーザーを見つければここでリポートしてください。",
+                    "placeholder": "リポートを入力",
+                    "button": "ユーザーをリポートして",
+                    "success": "リポートに成功しました",
+                    "error": "リポートのエラー"
                 },
                 "asset": {
-                    "title": "Report Asset",
+                    "title": "アセットをリポートして",
                     "help": "規則を破るアセットを見つければここでリポートしてください。",
                     "placeholder": "リポートを入力",
                     "button": "アセットをリポートする",
