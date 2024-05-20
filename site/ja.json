@@ -346,17 +346,17 @@
             },
             "viewSuggestiveContent": {
                 "title": "内容を表示",
-                "help": "This setting allows you to view suggestive/triggering content, this is stored locally on your device.",
-                "button": "Change View Suggestive Content",
-                "success": "Successfully changed view suggestive content",
-                "error": "Error changing view suggestive content"
+                "help": "この設定により挑発的なコンテンツは表示できます。これはデバイスにローカルに保存されます。",
+                "button": "挑発的を表示",
+                "success": "挑発事表示設定の変わる完遂",
+                "error": "挑発事表示設定の変わるエラー"
             },
             "password": {
-                "title": "Password",
-                "help": "Your password is used to authenticate you on the site.",
-                "placeholder": "Enter password",
-                "button": "Change Password",
-                "success": "Successfully changed password",
+                "title": "パスワード",
+                "help": "自分のパスワードはサイト内に認証ために使用されます。",
+                "placeholder": "パスワード入力",
+                "button": "パスワード変わる",
+                "success": "パスワード変更に成功しました",
                 "error": "Error changing password"
             },
             "delete": {
